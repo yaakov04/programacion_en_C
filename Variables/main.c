@@ -19,6 +19,19 @@ int main()
     //imprimir una varible que es caracter
     printf("\ncaracter: %c", letterA);
 
+    /*
+    //asignar datos con un input
+    int entrada;
+    printf("\n\nIngresa el valor de entrada ");
+    scanf("%i", &entrada);
+    printf("\n%i", entrada);
+    */
+    float entrada;
+    printf("\n\nIngresa el valor de entrada ");
+    scanf("%f", &entrada);
+    printf("\n%f", entrada);
+
+
 
 
 
