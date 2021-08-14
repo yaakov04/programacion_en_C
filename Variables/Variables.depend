@@ -1,5 +1,5 @@
 # depslib dependency file v1.0
-1628714348 source:/home/diego/Documentos/proyectos_programacion/enC/Variables/main.c
+1628894092 source:/home/diego/Documentos/proyectos_programacion/enC/Variables/main.c
 	<stdio.h>
 	<stdlib.h>
 	<stdbool.h>
