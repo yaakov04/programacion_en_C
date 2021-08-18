@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1629248871 source:/home/diego/Documentos/proyectos_programacion/enC/reto8/main.c
+	<stdio.h>
+	<stdlib.h>
+
