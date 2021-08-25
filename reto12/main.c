@@ -3,7 +3,7 @@
 
 int main()
 {
-    int arreglo[]={5,3,2,4,1};
+    int arreglo[]={1,2,3,4,5};
     int resultado=1;
 
     for(int i=0; i<=4; i++){
