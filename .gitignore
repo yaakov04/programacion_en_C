@@ -55,3 +55,4 @@ bin/
 *.depend
 bin/
 obj/
+.dat
